@@ -36,37 +36,42 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun BusinessCard() {
-    Column(
-        modifier = Modifier
-            .fillMaxSize()
-            .padding(32.dp),
-        verticalArrangement = Arrangement.Center,
-        horizontalAlignment = Alignment.CenterHorizontally
+    Box(
+
     ) {
-        Image(
-            painter = painterResource(id = R.drawable.ic_launcher_foreground),
-            contentDescription = "Profile image",
-            modifier = Modifier.size(120.dp)
-        )
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(32.dp),
+            verticalArrangement = Arrangement.Center,
+            horizontalAlignment = Alignment.CenterHorizontally
+        ) {
+            Image(
+                painter = painterResource(id = R.drawable.ic_launcher_foreground),
+                contentDescription = "Profile image",
+                modifier = Modifier.size(120.dp)
+            )
 
-        Text(
-            text = "Igor Verhoshencev",
-            fontSize = 35.sp,
-            fontWeight = FontWeight.Bold,
-            modifier = Modifier.padding(top = 16.dp)
-        )
-        Text(
-            text = "Android Developer",
-            fontSize = 20.sp,
-            color = MaterialTheme.colorScheme.primary
-        )
+            Text(
+                text = "Igor Verhoshencev",
+                fontSize = 35.sp,
+                fontWeight = FontWeight.Bold,
+                modifier = Modifier.padding(top = 16.dp)
+            )
+            Text(
+                text = "Android Developer",
+                fontSize = 20.sp,
+                color = MaterialTheme.colorScheme.primary
+            )
 
-        Spacer(modifier = Modifier.height(40.dp))
+            Spacer(modifier = Modifier.height(40.dp))
 
-        ContactInfo(text = "+1 (555) 123-456")
-        ContactInfo(text = "igor.verhoshencev@example.com")
-        ContactInfo(text = "@igorverhoshencev")
+            ContactInfo(text = "+1 (555) 123-456")
+            ContactInfo(text = "igor.verhoshencev@example.com")
+            ContactInfo(text = "@igorverhoshencev")
+        }
     }
+
 }
 
 @Composable
