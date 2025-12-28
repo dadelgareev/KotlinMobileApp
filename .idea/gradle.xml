@@ -10,9 +10,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/artspace" />
-            <option value="$PROJECT_DIR$/diceroller" />
-            <option value="$PROJECT_DIR$/tip" />
+            <option value="$PROJECT_DIR$/affermation" />
+            <option value="$PROJECT_DIR$/scrollbar" />
+            <option value="$PROJECT_DIR$/woofMain" />
+            <option value="$PROJECT_DIR$/woofMaterial" />
           </set>
         </option>
       </GradleProjectSettings>

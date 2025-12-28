@@ -13,22 +13,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-pluginManagement {
-    repositories {
-        google()
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
-rootProject.name = "DiceRoller"
-include(":scrollbar")
-include(":affermation")
-include(":woofMain")
-include(":woofMaterial")
+package com.example.affirmations.model
+
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+/**
+ * [Affirmation] is the data class to represent the Affirmation text and imageResourceId
+ */
+data class Affirmation(
+    @StringRes val stringResourceId: Int,
+    @DrawableRes val imageResourceId: Int
+)
