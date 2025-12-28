@@ -10,11 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/affermation" />
-            <option value="$PROJECT_DIR$/app30days" />
-            <option value="$PROJECT_DIR$/scrollbar" />
-            <option value="$PROJECT_DIR$/woofMain" />
-            <option value="$PROJECT_DIR$/woofMaterial" />
+            <option value="$PROJECT_DIR$/clickerVM" />
           </set>
         </option>
       </GradleProjectSettings>

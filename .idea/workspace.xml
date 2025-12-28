@@ -10,38 +10,160 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6140651-d514-461c-ac03-47eee6250e54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app30days/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/androidTest/java/com/example/app30days/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/data/Datasource.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/test/java/com/example/app30days/ExampleUnitTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/java/com/example/affirmations/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/java/com/example/affirmations/data/Datasource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/java/com/example/affirmations/model/Affirmation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/java/com/example/affirmations/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/java/com/example/affirmations/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/drawable/image9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/affermation/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/androidTest/java/com/example/app30days/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/data/Datasource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app30days/src/test/java/com/example/app30days/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/java/com/example/woof/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/java/com/example/woof/data/Dog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/java/com/example/woof/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/java/com/example/woof/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/java/com/example/woof/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/java/com/example/woof/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/bella.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/faye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/frankie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/ic_woof_logo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/koda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/leroy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/lola.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/moana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/nox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/drawable/tzeitel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/font/abril_fatface_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/font/montserrat_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/font/montserrat_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMain/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/java/com/example/woof/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/java/com/example/woof/data/Dog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/java/com/example/woof/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/java/com/example/woof/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/java/com/example/woof/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/java/com/example/woof/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/bella.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/faye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/frankie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/ic_woof_logo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/koda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/leroy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/lola.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/moana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/nox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/drawable/tzeitel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/font/abril_fatface_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/font/montserrat_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/font/montserrat_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/woofMaterial/src/main/res/values/themes.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +205,7 @@
     "Android App.app.executor": "Run",
     "Android App.app30days.executor": "Run",
     "Android App.artspace.executor": "Run",
+    "Android App.clickerVM.executor": "Run",
     "Android App.tip.executor": "Run",
     "Android App.woofMaterial.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -94,14 +217,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "AVb-22-1-Adelgareev-6-final",
+    "git-widget-placeholder": "AVb-22-1-Adelgareev-7",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Android App.app30days">
+  <component name="RunManager" selected="Android App.clickerVM">
     <configuration name="affermation" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="DiceRoller.affermation" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
@@ -176,6 +299,78 @@
     </configuration>
     <configuration name="app30days" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="DiceRoller.app30days" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clickerVM" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DiceRoller.clickerVM" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -484,6 +679,16 @@
         <entry key="com.example.affirmations.test">
           <value>
             <CheckInfo lastCheckTimestamp="1766919413789" />
+          </value>
+        </entry>
+        <entry key="com.example.dessertclicker">
+          <value>
+            <CheckInfo lastCheckTimestamp="1766930296509" />
+          </value>
+        </entry>
+        <entry key="com.example.dessertclicker.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1766930296511" />
           </value>
         </entry>
         <entry key="com.example.diceroller">
