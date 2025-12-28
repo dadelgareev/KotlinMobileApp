@@ -19,6 +19,10 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
     }
+    plugins {
+        id("org.jetbrains.kotlin.android") version "2.1.0" apply false
+        id("org.jetbrains.kotlin.plugin.compose") version "2.1.0" apply false
+    }
 }
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
@@ -29,5 +33,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "DiceRoller"
 include(":clickerVM")
-//include(":architectureTest")
+include(":architectureTest")
+include(":navUpdate")
+include(":sport")
+include(":tray")
 
