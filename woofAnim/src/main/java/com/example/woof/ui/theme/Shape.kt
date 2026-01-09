@@ -13,24 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-pluginManagement {
-    repositories {
-        google()
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
-rootProject.name = "DiceRoller"
-include(":scrollbar")
-include(":affermation")
-include(":woofMain")
-include(":woofMaterial")
-include(":woofAnim")
-include(":app30days")
+package com.example.woof.ui.theme
+
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material3.Shapes
+import androidx.compose.ui.unit.dp
+
+val Shapes = Shapes(
+    small = RoundedCornerShape(50.dp),
+    medium = RoundedCornerShape(bottomStart = 16.dp, topEnd = 16.dp)
+)

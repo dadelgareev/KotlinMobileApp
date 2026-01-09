@@ -10,36 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6140651-d514-461c-ac03-47eee6250e54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app30days/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/androidTest/java/com/example/app30days/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/data/Datasource.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/java/com/example/app30days/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app30days/src/test/java/com/example/app30days/ExampleUnitTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
@@ -65,6 +36,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="AVb-22-1-Adelgareev-5" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Adel\.gradle\wrapper\dists\gradle-8.12-bin\cetblhg4pflnnks72fxwobvgv\gradle-8.12" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="8.12" />
@@ -84,6 +60,7 @@
     "Android App.app30days.executor": "Run",
     "Android App.artspace.executor": "Run",
     "Android App.tip.executor": "Run",
+    "Android App.woofMain.executor": "Run",
     "Android App.woofMaterial.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -101,7 +78,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Android App.app30days">
+  <component name="RunManager" selected="Android App.woofMain">
     <configuration name="affermation" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="DiceRoller.affermation" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />

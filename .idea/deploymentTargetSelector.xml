@@ -5,16 +5,13 @@
       <SelectionState runConfigName="diceroller">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="affermation">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
-      <SelectionState runConfigName="woofMain">
+      <SelectionState runConfigName="app30days">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="woofMaterial">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="app30days">
+      <SelectionState runConfigName="woofMain">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
