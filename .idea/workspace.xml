@@ -10,11 +10,234 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6140651-d514-461c-ac03-47eee6250e54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architectureTest/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/architectureTest/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/data/WordsData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/ui/GameScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/ui/GameUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/ui/GameViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/java/com/example/unscramble/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architectureTest/src/test/java/com/example/unscramble/data/WordsData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/data/Datasource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/data/DessertUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/model/Dessert.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/ui/DessertViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/java/com/example/dessertclicker/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/bakery_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/cupcake.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/donut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/eclair.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/froyo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/gingerbread.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/honeycomb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/icecreamsandwich.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/jellybean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/kitkat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/lollipop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/marshmallow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/nougat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/drawable/oreo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clickerVM/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/androidTest/java/com/example/reply/test/ComposeTestRuleExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/data/Account.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/data/Email.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/data/MailboxType.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/data/local/LocalAccountsDataProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/data/local/LocalEmailsDataProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/ReplyApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/ReplyDetailsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/ReplyHomeContent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/ReplyHomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/ReplyUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/ReplyViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/java/com/example/reply/ui/utils/WindowStateUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/avatar_express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/drawable/logo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navUpdate/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/data/LocalSportsDataProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/model/Sport.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/ui/SportsScreens.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/ui/SportsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/java/com/example/sports/utils/WindowStateUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_badminton_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_badminton_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_baseball_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_baseball_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_basketball_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_basketball_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_bowling_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_bowling_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_cycling_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_cycling_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_golf_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_golf_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_running_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_running_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_soccer_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_soccer_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_swimming_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_swimming_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_table_tennis_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_table_tennis_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_tennis_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/drawable/ic_tennis_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/LunchTrayScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/datasource/DataSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/model/MenuItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/model/OrderUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/AccompanimentMenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/BaseMenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/CheckoutScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/EntreeMenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/OrderViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/SideDishMenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/StartOrderScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/java/com/example/lunchtray/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tray/src/main/res/values/themes.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +263,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Adel\.gradle\wrapper\dists\gradle-8.12-bin\cetblhg4pflnnks72fxwobvgv\gradle-8.12" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="8.12" />
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Adel\.gradle\wrapper\dists\gradle-9.0-milestone-1-bin\3vdepk4s12bybhohyuvjcm1bd\gradle-9.0-milestone-1" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="9.0-milestone-1" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -56,7 +279,12 @@
     "Android App.app.executor": "Run",
     "Android App.app30days.executor": "Run",
     "Android App.artspace.executor": "Run",
+    "Android App.busSchedule.executor": "Run",
     "Android App.clickerVM.executor": "Run",
+    "Android App.desertRelease.executor": "Run",
+    "Android App.flightSearch.executor": "Run",
+    "Android App.room.executor": "Run",
+    "Android App.roomMain.executor": "Run",
     "Android App.sport.executor": "Run",
     "Android App.tip.executor": "Run",
     "Android App.woofMaterial.executor": "Run",
@@ -69,16 +297,89 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "AVb-22-1-Adelgareev-7",
+    "git-widget-placeholder": "AVb-22-1-Adelgareev-9",
     "kotlin-language-version-configured": "true",
+    "memory.settings.postsync.last.time.stamp": "1767931215650",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Android App.navUpdate">
+  <component name="RunManager" selected="Android App.flightSearch">
     <configuration name="architectureTest" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="DiceRoller.architectureTest" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="busSchedule" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DiceRoller.busSchedule" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -221,6 +522,78 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="desertRelease" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DiceRoller.desertRelease" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="diceroller" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="DiceRoller.diceroller" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
@@ -293,8 +666,224 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="flightSearch" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DiceRoller.flightSearch" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="navUpdate" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="DiceRoller.navUpdate" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="room" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DiceRoller.room" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roomMain" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DiceRoller.roomMain" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -510,7 +1099,6 @@
       </method>
     </configuration>
     <configuration name="woofMain" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="DiceRoller.woofMain" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -581,6 +1169,20 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Android App.busSchedule" />
+      <item itemvalue="Android App.desertRelease" />
+      <item itemvalue="Android App.flightSearch" />
+      <item itemvalue="Android App.room" />
+      <item itemvalue="Android App.roomMain" />
+      <item itemvalue="Android App.architectureTest" />
+      <item itemvalue="Android App.clickerVM" />
+      <item itemvalue="Android App.diceroller" />
+      <item itemvalue="Android App.navUpdate" />
+      <item itemvalue="Android App.sport" />
+      <item itemvalue="Android App.tray" />
+      <item itemvalue="Android App.woofMain" />
+    </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

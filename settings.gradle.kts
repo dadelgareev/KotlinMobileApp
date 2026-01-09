@@ -32,9 +32,8 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "DiceRoller"
-include(":clickerVM")
-include(":architectureTest")
-include(":navUpdate")
-include(":sport")
-include(":tray")
-
+include(":busSchedule")
+include(":desertRelease")
+include(":room")
+include(":flightSearch")
+include(":roomMain")

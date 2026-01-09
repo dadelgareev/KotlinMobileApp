@@ -10,11 +10,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/architectureTest" />
-            <option value="$PROJECT_DIR$/clickerVM" />
-            <option value="$PROJECT_DIR$/navUpdate" />
-            <option value="$PROJECT_DIR$/sport" />
-            <option value="$PROJECT_DIR$/tray" />
+            <option value="$PROJECT_DIR$/busSchedule" />
+            <option value="$PROJECT_DIR$/desertRelease" />
+            <option value="$PROJECT_DIR$/flightSearch" />
+            <option value="$PROJECT_DIR$/room" />
+            <option value="$PROJECT_DIR$/roomMain" />
           </set>
         </option>
       </GradleProjectSettings>
