@@ -123,7 +123,7 @@ fun ReplyListAndDetailContent(
         )
     }
 }
-
+// компонент карточки бизнес-карточки
 @Composable
 fun ReplyEmailListItem(
     email: Email,
@@ -201,7 +201,7 @@ private fun ReplyEmailItemHeader(email: Email, modifier: Modifier = Modifier) {
         }
     }
 }
-
+// компонент аватарки
 @Composable
 fun ReplyProfileImage(
     @DrawableRes drawableResource: Int,
@@ -216,7 +216,7 @@ fun ReplyProfileImage(
         )
     }
 }
-
+// лого компонент
 @Composable
 fun ReplyLogo(
     modifier: Modifier = Modifier,

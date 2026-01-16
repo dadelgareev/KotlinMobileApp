@@ -37,4 +37,5 @@ include(":architectureTest")
 include(":navUpdate")
 include(":sport")
 include(":tray")
+include(":cityApp")
 

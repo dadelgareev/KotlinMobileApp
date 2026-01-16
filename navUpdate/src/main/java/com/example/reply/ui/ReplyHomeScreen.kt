@@ -137,7 +137,7 @@ fun ReplyHomeScreen(
         }
     }
 }
-
+// каркас всего приложения
 @Composable
 private fun ReplyAppContent(
     navigationType: ReplyNavigationType,
@@ -211,7 +211,7 @@ private fun ReplyNavigationRail(
         }
     }
 }
-
+// компонент где кнопки навигаций
 @Composable
 private fun ReplyBottomNavigationBar(
     currentTab: MailboxType,

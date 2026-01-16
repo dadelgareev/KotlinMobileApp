@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/architectureTest" />
+            <option value="$PROJECT_DIR$/cityApp" />
             <option value="$PROJECT_DIR$/clickerVM" />
             <option value="$PROJECT_DIR$/navUpdate" />
             <option value="$PROJECT_DIR$/sport" />
